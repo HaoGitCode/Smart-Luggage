@@ -12,5 +12,5 @@ On the other hand, to get the distance for the target people, we use the real se
 ## Code 
 The iRobot.py file runs on the microcontroller and the trackpeople.py runs on the PC. The codes used socket to communicate with each other.
 ## Demo Video
-
+https://youtu.be/pIGHeG1ak5M
 
